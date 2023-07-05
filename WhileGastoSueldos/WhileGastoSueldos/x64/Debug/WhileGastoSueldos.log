@@ -1,0 +1,3 @@
+﻿  archivo1.cpp
+C:\Users\Yisus\Desktop\WhileGastoSueldos\WhileGastoSueldos\archivo1.cpp(7,11): warning C4101: 'promedio': variable local sin referencia
+  WhileGastoSueldos.vcxproj -> C:\Users\Yisus\Desktop\WhileGastoSueldos\x64\Debug\WhileGastoSueldos.exe
